@@ -1,3 +1,3 @@
 ---
-Github Pages First Steps
+title: Github Pages First Steps
 ---
